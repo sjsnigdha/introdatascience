@@ -1,2 +1,1 @@
 # introdatascience
-Tutorial 2 
